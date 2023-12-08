@@ -1,0 +1,3 @@
+Arquivo legivel para ser criptografado.
+
+junior.dev.br
