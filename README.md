@@ -13,6 +13,6 @@ Para desenvolver esse projeto, foi sugerido o uso da linguagem Python para execu
 
 [![Video do Projeto](https://img.youtube.com/vi/TP87HHMPvk0/0.jpg)](https://youtu.be/TP87HHMPvk0)
 
-<p>Clique na imagem para assitir ao video</p>
+<p>Clique na imagem para assistir ao video</p>
 
 </div>
